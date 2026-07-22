@@ -1,0 +1,10 @@
+Cortex Arena is an independent project and is not affiliated with the Lux AI
+Challenge or Kaggle.
+
+The project integrates with the separately distributed Lux AI Season 3
+environment and visualizer (Lux-AI-Challenge/Lux-Design-S3), licensed under the
+Apache License 2.0. Their source code is not vendored here. The nominative Lux
+name and docs/assets/gameplay.png are used to identify and demonstrate
+compatibility; the screenshot is frame 253/505 from a local seed-42 replay
+rendered by the official visualizer. See:
+https://github.com/Lux-AI-Challenge/Lux-Design-S3

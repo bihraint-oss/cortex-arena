@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use Cortex Arena in a project, please cite this repository."
+title: "Cortex Arena: A Hierarchical Strategy Game Agent"
+type: software
+authors:
+  - name: "bihraint-oss"
+version: 0.1.0
+date-released: 2026-07-22
+license: MIT
+repository-code: "https://github.com/bihraint-oss/cortex-arena"
